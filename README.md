@@ -1,6 +1,5 @@
 # 🍽️ Restaurant Management Website
 
-**Mapped CO:** CO2
 
 **Objective:** Convert a static HTML website into a visually attractive website using CSS.
 
